@@ -2,7 +2,8 @@
   <img alt="logo" title="Python" src="./image.png" width="380px" height="120px"/>
 </h1>
 
-<p align="center">Este projeto é um script para acessar um site automaticamente. Foi feito para automatização da empresa em que trabalho.</p>
+<p align="center">Este projeto é um script para acessar um site automaticamente. Foi feito para automatização da empresa em que trabalho.</p><br>
+<p align='center'>É necessário colocar o chromedriver.exe para rodar a aplicação.</p>
 
 
 <h1 align="center">
